@@ -1,0 +1,10 @@
+<recipetype:mekanism:crushing>.addRecipe("processing/iron/raw/from_ore", <tag:items:forge:ores/iron>, <item:minecraft:raw_iron> * 9);
+<recipetype:mekanism:crushing>.addRecipe("processing/copper/raw/from_ore", <tag:items:forge:ores/copper>, <item:minecraft:raw_copper> * 9);
+<recipetype:mekanism:crushing>.addRecipe("processing/gold/raw/from_ore", <tag:items:forge:ores/gold>, <item:minecraft:raw_gold> * 9);
+<recipetype:mekanism:crushing>.addRecipe("processing/osmium/raw/from_ore", <tag:items:forge:ores/osmium>, <item:mekanism:raw_osmium> * 9);
+<recipetype:mekanism:crushing>.addRecipe("processing/tin/raw/from_ore", <tag:items:forge:ores/tin>, <item:mekanism:raw_tin> * 9);
+<recipetype:mekanism:crushing>.addRecipe("processing/lead/raw/from_ore", <tag:items:forge:ores/lead>, <item:mekanism:raw_lead> * 9);
+<recipetype:mekanism:crushing>.addRecipe("processing/uranium/raw/from_ore", <tag:items:forge:ores/uranium>, <item:mekanism:raw_uranium> * 9);
+<recipetype:mekanism:crushing>.addRecipe("processing/naquadah/raw/from_ore", <tag:items:forge:ores/naquadah>, <item:mekanism_extras:raw_naquadah> * 9);
+<recipetype:mekanism:crushing>.addRecipe("processing/nickel/raw/from_ore", <tag:items:forge:ores/nickel>, <item:thermal:raw_nickel> * 9);
+<recipetype:mekanism:crushing>.addRecipe("processing/silver/raw/from_ore", <tag:items:forge:ores/silver>, <item:thermal:raw_silver> * 9);
