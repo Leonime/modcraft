@@ -24,3 +24,4 @@ craftingTable.addShapeless(
         <tag:items:forge:dusts/certus_quartz>
     ], null
 );
+
