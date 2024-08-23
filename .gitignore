@@ -1,2 +1,6 @@
 mods/
 libraries/
+logs/
+journeymap/
+Raftel/*
+!Raftel/serverconfig
