@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "ae2:annihilation_plane",
+    "industrialforegoing:infinity_drill",
+    "industrialforegoing:infinity_saw",
+    "thermal:flux_drill",
+    "thermal:flux_saw",
+    "twilightforest:block_and_chain",
+    "buildinggadgets2:gadget_exchanging"
+  ],
+  "incompatible": [
+    "enderio:auto_smelt",
+    "minecraft:fortune",
+    "enderio:xp_boost",
+    "minecraft:looting",
+    "minecraft:luck_of_the_sea"
+  ]
+}
