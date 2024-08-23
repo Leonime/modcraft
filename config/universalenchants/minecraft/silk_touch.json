@@ -11,10 +11,10 @@
     "buildinggadgets2:gadget_exchanging"
   ],
   "incompatible": [
-    "enderio:auto_smelt",
+    "minecraft:looting",
+    "minecraft:luck_of_the_sea",
     "minecraft:fortune",
     "enderio:xp_boost",
-    "minecraft:looting",
-    "minecraft:luck_of_the_sea"
+    "enderio:auto_smelt"
   ]
 }

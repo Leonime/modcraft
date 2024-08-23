@@ -10,7 +10,7 @@
 	[tinylightbulbs.light]
 		#Light level of the LED bulbs
 		#Range: 1 ~ 15
-		led = 14
+		led = 15
 		#Light level of the regular bulbs
 		#Range: 1 ~ 15
 		bulb = 15
@@ -19,5 +19,5 @@
 		block = 15
 		#Light level of the Panel bulbs
 		#Range: 1 ~ 15
-		panel = 14
+		panel = 15
 

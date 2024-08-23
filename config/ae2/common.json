@@ -45,13 +45,13 @@
   },
   "battery": {
     "chargerChargeRate_comment": "The chargers charging rate factor, which is applied to the charged items charge rate. 2 means it charges everything twice as fast. 0.5 half as fast.",
-    "chargerChargeRate": 1.0,
-    "wirelessTerminal": 1600000,
-    "chargedStaff": 8000,
-    "entropyManipulator": 200000,
-    "portableCell": 20000,
-    "colorApplicator": 20000,
-    "matterCannon": 200000
+    "chargerChargeRate": 3.0,
+    "wirelessTerminal": 16000000,
+    "chargedStaff": 80000,
+    "entropyManipulator": 2000000,
+    "portableCell": 200000,
+    "colorApplicator": 200000,
+    "matterCannon": 2000000
   },
   "worldGen": {
     "spawnPressesInMeteorites": true,
